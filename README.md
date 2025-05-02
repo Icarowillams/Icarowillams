@@ -63,4 +63,3 @@
 
 ---
 
-<h4 align="center">"Aprender é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende." – Leonardo da Vinci</h4>
