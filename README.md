@@ -8,7 +8,7 @@
 
 <p align="left">
   👨‍💻 Técnico em Desenvolvimento de Sistemas com foco em Back-End.<br>
-  🚀 Atualmente estudando e praticando tecnologias como Java, MySQL e Python.<br>
+  🚀 Atualmente estudando Engenharia de Software e praticando tecnologias como Java, MySQL e Python.<br>
   🔒 Interesses especiais em extração de dados e integração com APIs.<br>
   💡 Sempre buscando novos desafios para evoluir como desenvolvedor!
 </p>
