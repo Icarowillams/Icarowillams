@@ -8,8 +8,8 @@
 
 <p align="left">
   👨‍💻 Técnico em Desenvolvimento de Sistemas com foco em Back-End.<br>
-  🚀 Atualmente estudando e praticando tecnologias como Java, Spring Boot, MySQL e Python.<br>
-  🔒 Interesses especiais em segurança mobile, autenticação moderna e integração com APIs.<br>
+  🚀 Atualmente estudando e praticando tecnologias como Java, MySQL e Python.<br>
+  🔒 Interesses especiais em extração de dados e integração com APIs.<br>
   💡 Sempre buscando novos desafios para evoluir como desenvolvedor!
 </p>
 
