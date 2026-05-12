@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Ícaro</h1>
+<h1 align="center">Opa curioso😅, me chamo Ícaro.</h1>
 
 <p align="center">🎓 Estudante de programação | 💻 Focado em Desenvolvimento Back-End | 📍 Brasil</p>
 
