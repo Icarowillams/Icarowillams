@@ -60,8 +60,11 @@ Destaques técnicos: integração em tempo real via Webhooks, emissão de NF-e/S
 ### 📊 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Icarowillams&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do Ícaro" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icarowillams&layout=compact&theme=tokyonight&hide_border=true" alt="Top Linguagens" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Icarowillams&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do Ícaro" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Icarowillams&layout=compact&theme=tokyonight&hide_border=true" alt="Top Linguagens" height="165"/>
 </p>
 
 ---
