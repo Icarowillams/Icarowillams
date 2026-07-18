@@ -57,14 +57,6 @@ Destaques técnicos: integração em tempo real via Webhooks, emissão de NF-e/S
 
 ---
 
-### 📊 Estatísticas GitHub
-
-<p align="center">
-  <img src="https://readme-stats.zhengjie.workers.dev/api?username=Icarowillams&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do Ícaro" height="165"/>
-</p>
-
----
-
 ### 🌐 Onde Me Encontrar
 
 <p align="left">
